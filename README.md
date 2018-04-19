@@ -17,3 +17,13 @@ A community driven list of presentation topics.
 - MusicKit
 - Business Chat
 - AirPlay 2
+
+### General Topics
+- iTunes Connect Overview
+- App Signing and Provisioning
+- Profiling with Instruments
+- IBInspectable/IBDesignable
+- iOS Animations
+- Documenting code
+- tvOS development
+- CoreGraphics Overview
